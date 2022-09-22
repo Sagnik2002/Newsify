@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Newsify.github.io/static/css/main.a617e044.chunk.css",
-    "main.js": "/Newsify.github.io/static/js/main.5284b19d.chunk.js",
-    "main.js.map": "/Newsify.github.io/static/js/main.5284b19d.chunk.js.map",
+    "main.css": "/Newsify.github.io/static/css/main.3e20fe65.chunk.css",
+    "main.js": "/Newsify.github.io/static/js/main.5c5db560.chunk.js",
+    "main.js.map": "/Newsify.github.io/static/js/main.5c5db560.chunk.js.map",
     "runtime-main.js": "/Newsify.github.io/static/js/runtime-main.7661493e.js",
     "runtime-main.js.map": "/Newsify.github.io/static/js/runtime-main.7661493e.js.map",
     "static/js/2.519e5ae5.chunk.js": "/Newsify.github.io/static/js/2.519e5ae5.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.2a3004dd.chunk.js": "/Newsify.github.io/static/js/3.2a3004dd.chunk.js",
     "static/js/3.2a3004dd.chunk.js.map": "/Newsify.github.io/static/js/3.2a3004dd.chunk.js.map",
     "index.html": "/Newsify.github.io/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Newsify.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.3e20fe65.chunk.css.map": "/Newsify.github.io/static/css/main.3e20fe65.chunk.css.map",
     "static/js/2.519e5ae5.chunk.js.LICENSE.txt": "/Newsify.github.io/static/js/2.519e5ae5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7661493e.js",
     "static/js/2.519e5ae5.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.5284b19d.chunk.js"
+    "static/css/main.3e20fe65.chunk.css",
+    "static/js/main.5c5db560.chunk.js"
   ]
 }
