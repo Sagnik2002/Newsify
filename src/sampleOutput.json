@@ -1,0 +1,265 @@
+{
+    "status": "ok",
+    "totalResults": 1784,
+    "articles": [{
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Khamosh Pathak",
+            "title": "It's Finally Easy to Find and Save Photos From Messages in iOS 15",
+            "description": "The Messages app on the iPhone has never really played all that nice with the Photos app—if someone messaged you a picture and you wanted to find it again later, good luck. That’s all changing in iOS 15 with the new Shared with You integration in the Photos a…",
+            "url": "https://lifehacker.com/its-finally-easy-to-find-and-save-photos-from-messages-1847588907",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a7f52ca03650d35f2479c8126b94b96e.jpg",
+            "publishedAt": "2021-08-31T15:00:00Z",
+            "content": "The Messages app on the iPhone has never really played all that nice with the Photos appif someone messaged you a picture and you wanted to find it again later, good luck. Thats all changing in iOS 1… [+2007 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: China slashes kids’ gaming time to three hours a week,",
+            "description": "For anyone struggling to tear kids away from consoles and phones for dinner, homework and, well, real life, spare a thought for the Chinese youth. China has announced a further crackdown on the time children can play online games, with the new limit set to ju…",
+            "url": "https://www.engadget.com/the-morning-after-china-slashes-kids-gaming-time-to-three-hours-a-week-111923464.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/8a0c2870-9ef9-11eb-bbd2-b1ef5eaf7c2c",
+            "publishedAt": "2021-08-31T11:19:23Z",
+            "content": "For anyone struggling to tear kids away from consoles and phones for dinner, homework and, well, real life, spare a thought for the Chinese youth. China has announced a further crackdown on the time … [+3834 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "Dell's New Laptop-Tablet Hybrid Is Great—but Pricey",
+            "description": "The Latitude 7320 Detachable is a Surface wannabe that'll cost you.",
+            "url": "https://www.wired.com/review/dell-latitude-7320-detachable/",
+            "urlToImage": "https://media.wired.com/photos/612d67cc26bd658ffe6e2594/191:100/w_1280,c_limit/Gear-Dell-Latitude-7320-1.jpg",
+            "publishedAt": "2021-08-31T13:00:00Z",
+            "content": "First, there was the iPad. Then Microsoft's Surface came along and showed that you could get real work done on a tablet. Or, at least, some people can. The hybrid laptop-tablet design is either the b… [+2635 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "Apple and Google must allow developers to use other payment systems, new Korean law declares",
+            "description": "South Korea has passed a law that prohibits platform owners forcing app developers to use built-in payments systems, opening the gates to alternatives for in-app purchases.",
+            "url": "https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aHnAnjI2fzboUy_b94Z0iIO__dM=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22687218/Google_Apple_App_Dominance2.jpg",
+            "publishedAt": "2021-08-31T10:16:05Z",
+            "content": "The two companies arent happy\r\nSouth Korea has passed a bill written to prevent major platform owners like Google and Apple from restricting app developers to built-in payment systems, The Wall Stree… [+3529 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Philips Hue bulbs are discounted in the lead up to Labor Day",
+            "description": "For a limited time, you can get a Philips Hue bulb for free when you buy two. The new Beats Studio Buds are also on sale today, as well as the Jabra Elite 75t and one of the best-performing and attractive mice from Logitech.",
+            "url": "https://www.theverge.com/good-deals/2021/8/31/22648480/philips-hue-bulbs-labor-day-beats-studio-buds-jabra-elite-75t-apple-pencil-deal-sale",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/4B30iBRxXL8LRFuyQot337038wI=/0x60:534x340/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22815779/9c1c4ec1886346919d60ac6700cb772c.jpeg",
+            "publishedAt": "2021-08-31T13:01:00Z",
+            "content": "And so are notables from Logitech, Beats, Apple, and Jabra\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nBuy three Philips Hue bulbs for the pri… [+5305 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "Jabra overhauls true wireless earbuds lineup with three new models",
+            "description": "Jabra’s new Elite 7 Pro, Elite 7 Active, and Elite 3 are the company’s latest pairs of true wireless earbuds. They’re each made for specific purposes, with the Elite 3 costing just $79 — Jabra’s cheapest price yet.",
+            "url": "https://www.theverge.com/2021/8/31/22649800/jabra-elite-7-pro-active-3-features-price",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YTbkeH5s4xFI3ggPFCPxz0iQmLA=/0x42:1686x925/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22816608/Screen_Shot_2021_08_31_at_12.39.43_AM.png",
+            "publishedAt": "2021-08-31T13:00:00Z",
+            "content": "The Elite 7 Pro, Elite 7 Active, and Elite 3 are all made for specific purposes\r\nImage: Jabra\r\nJabra is today announcing a comprehensive makeover of its true wireless earbuds lineup. The company is i… [+3064 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Bose’s QuietComfort 45 arrive September 23 for $330",
+            "description": "Following a spate of leaks, Bose this morning announced the latest addition to its well-loved over ear headphones. The QuietComfort 45 (which replace the 35 II) sport improved nose cancellation and 24 hours of battery on a charge, per Bose’s metrics. The air …",
+            "url": "http://techcrunch.com/2021/08/31/boses-quietcomfort-45-arrive-september-23-for-330/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-31-at-9.48.33-AM.jpg?w=491",
+            "publishedAt": "2021-08-31T13:54:52Z",
+            "content": "Following a spate of leaks, Bose this morning announced the latest addition to its well-loved over ear headphones. The QuietComfort 45 (which replace the 35 II) sport improved nose cancellation and 2… [+1613 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "US giants top tech industry’s $100M+ a year lobbying blitz in EU",
+            "description": "The scale of the tech industry’s spending to influence the European Union’s tech policy agenda has been laid out in a report published today by Corporate Europe Observatory and Lobbycontrol — which found hundreds of companies, groups and business associations…",
+            "url": "http://techcrunch.com/2021/08/31/us-giants-top-tech-industrys-100m-a-year-lobbying-blitz-in-eu/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/32426873477_953d1caa80_k.jpg?w=601",
+            "publishedAt": "2021-08-31T10:39:31Z",
+            "content": "The scale of the tech industry’s spending to influence the European Union’s tech policy agenda has been laid out in a report published today by Corporate Europe Observatory and Lobbycontrol — which f… [+5647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Victoria Song",
+            "title": "Strava Is Making Its Most Popular Safety Feature Free for Everyone",
+            "description": "Running safety is no joke, and while most companies lock advanced features behind paywalls, Strava announced today it’ll make its live location-sharing feature Beacon free for everyone.Read more...",
+            "url": "https://gizmodo.com/strava-is-making-its-most-popular-safety-feature-free-f-1847584662",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/885e6537a9053840977c975e5aa31519.jpg",
+            "publishedAt": "2021-08-31T13:00:00Z",
+            "content": "Running safety is no joke, and while most companies lock advanced features behind paywalls, Strava announced today itll make its live location-sharing feature Beacon free for everyone.\r\nHowBeacon wor… [+1998 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "S. Korea to curb big tech commission dominance - Reuters",
+            "description": "South Korea's parliament on Tuesday approved a bill that bans major app store operators such as Google and Apple from forcing software developers to use their payment systems.",
+            "url": "https://www.reuters.com/video/watch/idPxpC?now=true",
+            "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/612e3097e4b085d396fcf1fc-1630417047345?location=LANDSCAPE",
+            "publishedAt": "2021-08-31T14:15:32Z",
+            "content": "Posted \r\nSouth Korea's parliament on Tuesday approved a bill that bans major app store operators such as Google and Apple from forcing software developers to use their payment systems."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Heekyong Yang",
+            "title": "S.Korea's parliament passes bill to curb Google, Apple commission dominance - Reuters.com",
+            "description": "South Korea's parliament on Tuesday approved a bill that bans major app store operators such as Google and Apple from forcing software developers to use their payment systems, effectively stopping them from charging commissions on in-app purchases.",
+            "url": "https://www.reuters.com/article/southkorea-antitrust-tech-idUSKBN2FW0UC",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210831&t=2&i=1573436597&r=LYNXMPEH7U0FV&w=800",
+            "publishedAt": "2021-08-31T10:17:00Z",
+            "content": "SEOUL (Reuters) - South Koreas parliament on Tuesday approved a bill that bans major app store operators such as Google and Apple from forcing software developers to use their payment systems, effect… [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Heekyong Yang",
+            "title": "S.Korea's parliament passes bill to curb Google, Apple commission dominance - Reuters",
+            "description": "South Korea's parliament on Tuesday approved a bill that bans major app store operators such as Google and Apple from forcing software developers to use their payment systems, effectively stopping them from charging commissions on in-app purchases.",
+            "url": "https://www.reuters.com/technology/skoreas-parliament-passes-bill-curb-google-apple-commission-dominance-2021-08-31/",
+            "urlToImage": "https://www.reuters.com/resizer/M8Wrf5e5RGGPqgsh18fj4zeWIYg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6I26V2HL4ZJ3TPAWVXS6D4ET5I.jpg",
+            "publishedAt": "2021-08-31T10:20:00Z",
+            "content": "A 3D printed Google logo is placed on the Apple Macbook in this illustration taken April 12, 2020. REUTERS/Dado Ruvic/IllustrationSEOUL, Aug 31 (Reuters) - South Korea's parliament on Tuesday approve… [+803 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "S. Korea to curb big tech commission dominance - Reuters",
+            "description": "South Korea's parliament on Tuesday approved a bill that bans major app store operators such as Google and Apple from forcing software developers to use their payment systems. Ciara Lee reports",
+            "url": "https://www.reuters.com/video/watch/idOVESM8FWR",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20210831&i=OVESM8FWR&r=OVESM8FWR&t=2",
+            "publishedAt": "2021-08-31T14:02:42Z",
+            "content": "Posted \r\nSouth Korea's parliament on Tuesday approved a bill that bans major app store operators such as Google and Apple from forcing software developers to use their payment systems. Ciara Lee repo… [+2 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Wall St set for another month of gains as futures hold steady - Reuters",
+            "description": "U.S. stocks futures held steady on Tuesday, putting the main indexes on course to end August on a firm footing, as investors shrugged off risks around rising coronavirus infections on hopes that the Federal Reserve's dovish stance would support economic growt…",
+            "url": "https://www.reuters.com/business/wall-set-another-month-gains-futures-hold-steady-2021-08-31/",
+            "urlToImage": "https://www.reuters.com/resizer/X7ib10BWuErjIfLPUVJqOcXOZxQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OZTRBH2DD5LGZCWXQ5IMDO7BKI.jpg",
+            "publishedAt": "2021-08-31T11:42:00Z",
+            "content": "A street sign for Wall Street is seen outside the New York Stock Exchange (NYSE) in New York City, New York, U.S., July 19, 2021. REUTERS/Andrew Kelly/File PhotoAug 31 (Reuters) - U.S. stocks futures… [+2208 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "US STOCKS-Wall set for another month of gains as futures hold steady - Reuters",
+            "description": "U.S. stocks futures held steady on Tuesday, putting the main indexes on course to end August on a firm footing, as investors shrugged off risks around rising coronavirus infections on hopes that the Federal Reserve's dovish stance would support economic growt…",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSKBN2FW0ZQ",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210831&t=2&i=1573443102&r=LYNXMPEH7U0IP&w=800",
+            "publishedAt": "2021-08-31T11:32:00Z",
+            "content": "By Reuters Staff\r\n(Corrects headline to say Wall St)\r\nFILE PHOTO: A street sign for Wall Street is seen outside the New York Stock Exchange (NYSE) in New York City, New York, U.S., July 19, 2021. REU… [+2099 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Taiwan expects much-anticipated first BioNTech vaccines to arrive soon - Reuters",
+            "description": "Around 900,000 doses of BioNTech's COVID-19 vaccine are expected to arrive in Taiwan soon, the health minister said on Tuesday, the first delivery of a highly politicised, much-anticipated order whose tortured progress has transfixed the island.",
+            "url": "https://www.reuters.com/world/asia-pacific/taiwan-expects-much-anticipated-first-biontech-vaccines-arrive-soon-2021-08-31/",
+            "urlToImage": "https://www.reuters.com/resizer/zXprkKotIVAMzMxEtiWVzZ2YMQM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/435WNJEMO5PKZLQA4ENMQGMVMM.jpg",
+            "publishedAt": "2021-08-31T07:15:00Z",
+            "content": "A vial labelled with the Pfizer-BioNTech coronavirus disease (COVID-19) vaccine is seen in this illustration picture taken March 19, 2021. REUTERS/Dado Ruvic/Illustration/File PhotoTAIPEI, Aug 31 (Re… [+2298 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Cecile Mantovani",
+            "title": "Frenchwoman officially considered dead fights to be \"alive\" again - Reuters",
+            "description": "Declared dead by a French court in 2017, Jeanne Pouchain has spent the past four years trying to escape a bewildering legal twilight zone and prove to officialdom that she is in fact very much alive. She says the experience has been devastating.",
+            "url": "https://www.reuters.com/world/europe/frenchwoman-officially-considered-dead-fights-be-alive-again-2021-08-31/",
+            "urlToImage": "https://www.reuters.com/resizer/KL8Z5iYeVYoW_VAfJXJ4cU-XhAA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VGXRZYXUCVMGPEEF5WR3PKRKVM.jpg",
+            "publishedAt": "2021-08-31T13:34:00Z",
+            "content": "SAINT-JOSEPH, France, Aug 31 (Reuters) - Declared dead by a French court in 2017, Jeanne Pouchain has spent the past four years trying to escape a bewildering legal twilight zone and prove to officia… [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Shashank Nayar",
+            "title": "US STOCKS-Futures inch lower as Wall Street eyes monthly gains - Reuters",
+            "description": "* Futures down: Dow 0.10%, S&P 0.10%, Nasdaq 0.11% (Updates prices, adds comment)",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2Q2306",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2021-08-31T13:12:00Z",
+            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* Tech stocks set to open lower\r\n* Zoom tumbles on faster-than-expected drop in demand\r\n… [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Babu Mohan",
+            "title": "South Korea's new bill targets Google and Apple's in-app payment dominance",
+            "description": "The bill is nicknamed the \"Google power-abuse-prevention law\" by some lawmakers in Korea.\n\n\n\nWhat you need to know\n\n\nSouth Korea has passed a new bill to prevent Google and Apple from forcing developers to use their in-house payment systems.\nCompanies could b…",
+            "url": "https://www.androidcentral.com/south-koreas-new-bill-targets-google-apples-app-payment-dominance",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2017/10/google-logo-black-white-13tsm-13tsm.jpg",
+            "publishedAt": "2021-08-31T12:37:34Z",
+            "content": "A new bill passed by South Korea's National Assembly could significantly reduce Google and Apple's dominance over app store payments. According to The Wall Street Journal, the bill is set to become l… [+1869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Babu Mohan",
+            "title": "Samsung now lets you use the Galaxy Watch 4 as a walkie talkie",
+            "description": "The feature works similarly to the Walkie-Talkie feature that Apple introduced for Apple Watch devices in 2018.\n\n\n\nWhat you need to know\n\n\nSamsung has released a new WalkieTalkie app for its latest Galaxy smartwatches.\nThe app allows you to use your Galaxy Wa…",
+            "url": "https://www.androidcentral.com/you-can-now-use-your-samsung-galaxy-watch-4-walkie-talkie",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/08/samsung-galaxy-watch-4-review-18.jpg",
+            "publishedAt": "2021-08-31T10:32:05Z",
+            "content": "Samsung has quietly released a new app that allows Galaxy Watch 4 and Galaxy Watch 4 Classic users to have instant conversations, \"just like if they were using a walkie-talkie\" (via XDA Developers). … [+1311 chars]"
+        }
+    ]
+}
