@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Newsify/static/css/main.3e20fe65.chunk.css",
-    "main.js": "/Newsify/static/js/main.3f59c03e.chunk.js",
-    "main.js.map": "/Newsify/static/js/main.3f59c03e.chunk.js.map",
+    "main.js": "/Newsify/static/js/main.9aa73e45.chunk.js",
+    "main.js.map": "/Newsify/static/js/main.9aa73e45.chunk.js.map",
     "runtime-main.js": "/Newsify/static/js/runtime-main.e045d753.js",
     "runtime-main.js.map": "/Newsify/static/js/runtime-main.e045d753.js.map",
-    "static/js/2.519e5ae5.chunk.js": "/Newsify/static/js/2.519e5ae5.chunk.js",
-    "static/js/2.519e5ae5.chunk.js.map": "/Newsify/static/js/2.519e5ae5.chunk.js.map",
+    "static/js/2.672d879e.chunk.js": "/Newsify/static/js/2.672d879e.chunk.js",
+    "static/js/2.672d879e.chunk.js.map": "/Newsify/static/js/2.672d879e.chunk.js.map",
     "static/js/3.2a3004dd.chunk.js": "/Newsify/static/js/3.2a3004dd.chunk.js",
     "static/js/3.2a3004dd.chunk.js.map": "/Newsify/static/js/3.2a3004dd.chunk.js.map",
     "index.html": "/Newsify/index.html",
     "static/css/main.3e20fe65.chunk.css.map": "/Newsify/static/css/main.3e20fe65.chunk.css.map",
-    "static/js/2.519e5ae5.chunk.js.LICENSE.txt": "/Newsify/static/js/2.519e5ae5.chunk.js.LICENSE.txt"
+    "static/js/2.672d879e.chunk.js.LICENSE.txt": "/Newsify/static/js/2.672d879e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e045d753.js",
-    "static/js/2.519e5ae5.chunk.js",
+    "static/js/2.672d879e.chunk.js",
     "static/css/main.3e20fe65.chunk.css",
-    "static/js/main.3f59c03e.chunk.js"
+    "static/js/main.9aa73e45.chunk.js"
   ]
 }
