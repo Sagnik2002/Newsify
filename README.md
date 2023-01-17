@@ -1,9 +1,9 @@
+## Author
+Sagnik Basak
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-##Author
-Sagnik Basak
 
 ## Available Scripts
 
