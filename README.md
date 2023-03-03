@@ -1,3 +1,4 @@
+* A news app which shows you all the latest news.
 ## Author
 Sagnik Basak
 
