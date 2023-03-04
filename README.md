@@ -1,4 +1,5 @@
 * A news app which shows you all the latest news.
+* Newsify is your one stop solution to all the latest news.
 ## Author
 Sagnik Basak
 
